@@ -7,3 +7,6 @@ Deployment is done using Flask and the frontend is built using the Flasgger libr
 ![](images/music_genre_ip.png)
 2. Output
 ![](images/music_genre_op.png)
+
+### Acknowledgement
+Based on a tutorial series by https://www.youtube.com/c/ValerioVelardoTheSoundofAI
